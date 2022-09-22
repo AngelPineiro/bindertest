@@ -1,10 +1,10 @@
 vpnotebook
 Cython
-seaborn==0.12.0
+seaborn
 matplotlib_venn
 statsmodels
-numpy==1.14.5
-sympy==1.7.1
-vpython==7.6.4
-matplotlib==3.1
-ipympl==0.9.2
+numpy
+sympy
+vpython
+matplotlib
+ipympl
