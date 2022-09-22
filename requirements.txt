@@ -1,4 +1,4 @@
 numpy==1.14.5
 sympy==1.7.1
-vpython==7
+vpython==7.6.4
 matplotlib==3.1
